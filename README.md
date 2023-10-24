@@ -9,7 +9,7 @@ I am a passionate Software Engineer with experience in building Web applications
 🎓 Currently enrolled at **Boston University**, projected to graduate in May 2024.  
 🔭 Previously worked in the **South Korean Air Force Information Systems Management Group** where I played a pivotal role in database management and utilized Java/JSP to optimize electronic inventory and resources management processes.  
 🌐 Joined [**BU Spark!**](https://www.bu.edu/spark/) since summer as a Full Stack Engineer, honing my skills and collaborating on innovative projects.  
-🌱 **Interests:** Playing Tennis 🎾 | Golfing ⛳ | Cooking 👨‍🍳 | Watching Movies & Netflix 🍿 | Traveling and Exploring New Places 🌏  
+🌱 **Interests:** Tennis 🎾 | Cooking 👨‍🍳 | Watching Movies & Netflix 🍿 | Golfing ⛳ | Traveling and Exploring New Places 🌏  
 
 <br>
 
