@@ -1,5 +1,7 @@
 # Hello, I'm Jason Oh (Cheolmin Oh) 👋
 
+📄 [**My Resume**](https://github.com/jasonoh1998/jasonoh1998/blob/main/CheolminOh_Resume.pdf)
+
 I am a passionate Software Engineer with experience in building Web applications. Currently, I am diving deeper into Cloud technologies and exploring the realms of AI & Machine Learning.
 
 <br>
