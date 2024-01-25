@@ -11,16 +11,17 @@ I am a passionate Software Engineer with experience in building Web applications
 🎓 Currently enrolled at **Boston University**, projected to graduate in May 2024.  
 🔭 Previously worked in the **South Korean Air Force Information Systems Management Group** where I played a pivotal role in database management and utilized Java/JSP to optimize electronic inventory and resources management processes.  
 🌐 Joined [**BU Spark!**](https://www.bu.edu/spark/) since summer as a Full Stack Engineer, honing my skills and collaborating on innovative projects.  
-🌱 **Interests:** Tennis 🎾 | Cooking 👨‍🍳 | Watching Movies & Netflix 🍿 | Golfing ⛳ | Traveling and Exploring New Places 🌏  
+🌱 **Interests:** Tennis 🎾 | Cooking 👨‍🍳 | Netflix 🍿 | Golfing ⛳ | Traveling 🌏 | ML & AI 💻🤖
 
 <br>
 
 ## 🚀 Projects
-
-- **[BadLandLords](https://github.com/BU-Spark/se-bad-landlords)**: A dynamic project aimed at identifying and listing scofflaw landlords in Boston. Through the website, we make it easier for residents to find safer housing options by displaying units that are maintained by responsible landlords.
-- **[D7](https://github.com/BU-Spark/se-d7-dashboard)**: A community-centric service focused on aiding residents of District 7 in Boston. Through our intuitive platform, we aim to facilitate access to essential assistance and services, fostering a supportive local network.
-- **[Shine-AI](https://github.com/BU-Spark/se-shine-ai)**: A compassionate project centered around mental health. Shine-AI evaluates users' mental wellbeing and coordinates external support mechanisms, laying down pathways to professional help and self-improvement resources.
+(Note: The links to demos may only showcase front-end functionality, as database access is currently unavailable. Please click the project titles to be directed to our public repositories.)
+- **[BadLandLords](https://github.com/BU-Spark/se-bad-landlords)**: A dynamic project aimed at identifying and listing scofflaw landlords in Boston. Through the website, we make it easier for residents to find safer housing options by displaying units that are maintained by responsible landlords. [link to BadLandLords demo](https://se-bad-landlords.vercel.app/map)
+- **[D7](https://github.com/BU-Spark/se-d7-dashboard)**: A community-centric service focused on aiding residents of District 7 in Boston. Through our intuitive platform, we aim to facilitate access to essential assistance and services, fostering a supportive local network. [link to D7 demo](https://se-d7-dashboard.web.app/)
+- **[Shine-AI](https://github.com/BU-Spark/se-shine-ai)**: A compassionate project centered around mental health. Shine-AI evaluates users' mental wellbeing and coordinates external support mechanisms, laying down pathways to professional help and self-improvement resources. [link to Shine-AI demo](https://se-shine-ai.vercel.app/)
 - **SparkBites!**: Set to launch by early Spring 2024. A sustainable initiative set to reduce food waste within Boston University. SparkBites will connect community members with events that have excess food, promoting sharing and contributing to a more sustainable environment.
+- **[Audio CNN Project](https://github.com/jasonoh1998/audio-cnn-project)**: A study in audio machine learning, this project investigates the application of spectrogram, mel-spectrogram, and MFCCs for audio data analysis and classification. It primarily focuses on gender and age detection, achieving commendable accuracy in gender identification while further improvements are being made in age estimation.
 
 <br>
 
@@ -41,11 +42,11 @@ I am a passionate Software Engineer with experience in building Web applications
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
   ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
 **Know how to use:**
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
