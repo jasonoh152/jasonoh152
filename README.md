@@ -17,11 +17,12 @@ I am a passionate Software Engineer with experience in building Web applications
 
 ## 🚀 Projects
 (Note: The links to demos may only showcase front-end functionality, as database access is currently unavailable. Please click the project titles to be directed to our public repositories.)
+- **[Spare-it](https://www.spare-it.com/)**: A sustainability-focused solution that employs machine learning to improve waste management in businesses and universities. It analyzes and predicts waste patterns, aiming to reduce contamination and increase recycling efficiency through advanced image recognition technology.
+- **[Audio CNN Project](https://github.com/jasonoh1998/audio-cnn-project)**: A study in audio machine learning, this project investigates the application of spectrogram, mel-spectrogram, and MFCCs for audio data analysis and classification. It primarily focuses on gender and age detection, achieving commendable accuracy in gender identification while further improvements are being made in age estimation.
 - **[BadLandLords](https://github.com/BU-Spark/se-bad-landlords)**: A dynamic project aimed at identifying and listing scofflaw landlords in Boston. Through the website, we make it easier for residents to find safer housing options by displaying units that are maintained by responsible landlords. [link to BadLandLords demo](https://se-bad-landlords.vercel.app/map)
 - **[D7](https://github.com/BU-Spark/se-d7-dashboard)**: A community-centric service focused on aiding residents of District 7 in Boston. Through our intuitive platform, we aim to facilitate access to essential assistance and services, fostering a supportive local network. [link to D7 demo](https://se-d7-dashboard.web.app/)
 - **[Shine-AI](https://github.com/BU-Spark/se-shine-ai)**: A compassionate project centered around mental health. Shine-AI evaluates users' mental wellbeing and coordinates external support mechanisms, laying down pathways to professional help and self-improvement resources. [link to Shine-AI demo](https://se-shine-ai.vercel.app/)
 - **SparkBites!**: Set to launch by early Spring 2024. A sustainable initiative set to reduce food waste within Boston University. SparkBites will connect community members with events that have excess food, promoting sharing and contributing to a more sustainable environment.
-- **[Audio CNN Project](https://github.com/jasonoh1998/audio-cnn-project)**: A study in audio machine learning, this project investigates the application of spectrogram, mel-spectrogram, and MFCCs for audio data analysis and classification. It primarily focuses on gender and age detection, achieving commendable accuracy in gender identification while further improvements are being made in age estimation.
 
 <br>
 
@@ -40,6 +41,7 @@ I am a passionate Software Engineer with experience in building Web applications
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
   ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,5 +80,5 @@ I am a passionate Software Engineer with experience in building Web applications
 
 ## 🌐 Connect with me
 - **Facebook:** [https://www.facebook.com/profile.php?id=100009503295542](https://www.facebook.com/profile.php?id=100009503295542)
-- **LinkedIn:** [https://www.linkedin.com/in/cheolmin-oh-766b48262/](https://www.linkedin.com/in/cheolmin-oh-766b48262/)
+- **LinkedIn:** [https://www.linkedin.com/in/cheolminoh/](https://www.linkedin.com/in/cheolminoh/)
 - **Email:** jasonoh1998@gmail.com
