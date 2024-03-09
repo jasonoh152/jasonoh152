@@ -1,5 +1,8 @@
 # Hello, I'm Jason Oh (Cheolmin Oh) 👋
 
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=jasonoh1998&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=jasonoh1998&layout=compact&theme=dracula)
+
 📄 [**My Resume**](https://github.com/jasonoh1998/jasonoh1998/blob/main/CheolminOh_Resume.pdf)
 
 I am a passionate Software Engineer with experience in building Web applications. Currently, I am diving deeper into Cloud technologies and exploring the realms of AI & Machine Learning.
@@ -16,7 +19,6 @@ I am a passionate Software Engineer with experience in building Web applications
 <br>
 
 ## 🚀 Projects
-(Note: The links to demos may only showcase front-end functionality, as database access is currently unavailable. Please click the project titles to be directed to our public repositories.)
 - **[Spare-it](https://www.spare-it.com/)**: A sustainability-focused solution that employs machine learning to improve waste management in businesses and universities. It analyzes and predicts waste patterns, aiming to reduce contamination and increase recycling efficiency through advanced image recognition technology. [link to repo](https://github.com/BU-Spark/ml-spare-it-contamination)
 - **[Audio CNN Project](https://github.com/jasonoh1998/audio-cnn-project)**: A study in audio machine learning, this project investigates the application of spectrogram, mel-spectrogram, and MFCCs for audio data analysis and classification. It primarily focuses on gender and age detection, achieving commendable accuracy in gender identification while further improvements are being made in age estimation.
 - **[BadLandLords](https://github.com/BU-Spark/se-bad-landlords)**: A dynamic project aimed at identifying and listing scofflaw landlords in Boston. Through the website, we make it easier for residents to find safer housing options by displaying units that are maintained by responsible landlords. [link to BadLandLords demo](https://se-bad-landlords.vercel.app/map)
@@ -71,14 +73,6 @@ I am a passionate Software Engineer with experience in building Web applications
 
 <br>
 
-## 📈 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonoh1998&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonoh1998&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 ## 🌐 Connect with me
-- **Facebook:** [https://www.facebook.com/profile.php?id=100009503295542](https://www.facebook.com/profile.php?id=100009503295542)
 - **LinkedIn:** [https://www.linkedin.com/in/cheolminoh/](https://www.linkedin.com/in/cheolminoh/)
 - **Email:** jasonoh1998@gmail.com
