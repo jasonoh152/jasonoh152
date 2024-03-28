@@ -56,14 +56,18 @@
 
 ## 🚀 Projects
 
-### Full-stack Projects:
+### LLMs:
+
+- **MyGenAI [https://jasonoh-genai.azurewebsites.net/](https://jasonoh-genai.azurewebsites.net/)**: Hosted with GitHub Actions and deployed to Azure Web App from a private repository. The description is available on the page.
+
+### Full-stack Web/App Projects:
 
 - **[BadLandLords](https://github.com/BU-Spark/se-bad-landlords/tree/dev)**: As the full-stack developer, I crafted scripts for automatic database updates through web scraping and APIs, utilizing TypeScript, Next.js, Prisma, GitHub Actions, Vercel, PostgreSQL, and Docker. Collaborating closely with a dedicated design team, we translated requirements from the Boston Council into a functional and user-friendly product, enhancing tenant access to information about responsible landlords. My role was pivotal in ensuring the seamless integration of design and development, aligning closely with the project's goals.
 - **[D7](https://github.com/BU-Spark/se-d7-dashboard)**: In this project aimed at enhancing community services in Boston's District 7, I spearheaded the development using Vite.js, Strapi, Firebase, Netlify, and GitHub Actions. My contributions included extensive refactoring for efficiency improvements and the integration of new features, alongside accurate API implementations. I worked closely with Boston City Councilor Tania Fernandes Anderson, ensuring the project's alignment with community needs.
 - **[Shine-AI](https://github.com/BU-Spark/se-shine-ai)**: Focused on mental health support, I led the development of an application using Next.js, Prisma, Firebase, Vercel, and Jest. My role involved designing backend services and integrating external support mechanisms to create a direct pathway for users seeking professional help.
 - **[Swan Stream](https://github.com/jasonoh1998/swan_stream)**: For this streaming service, I utilized JSP, Bootstrap, jQuery, Java, Spring, MyBatis, JSTL, and OracleDB, deploying it on AWS to create a robust platform for drama and comics.
 
-### AI & ML Projects:
+### Computer Vision:
 
 - **[Spare-it](https://github.com/BU-Spark/ml-spare-it-contamination/tree/dev)**: In the Spare-it project, my task was to build an image classification model to identify recyclables. I used PyTorch, YOLOv8, and ResNet152 to develop a model for [Spare-it company](https://www.linkedin.com/company/spareit/).
 - **[Audio CNN Project](https://github.com/jasonoh1998/audio-cnn-project)**: Specializing in audio data analysis, I focused on the application of spectrograms, mel-spectrograms, and MFCCs for gender and age detection. This initiative achieved high accuracy in gender identification and continues to improve age estimation.
