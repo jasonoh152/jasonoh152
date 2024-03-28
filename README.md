@@ -58,7 +58,7 @@
 
 ### LLMs:
 
-- **MyGenAI [https://jasonoh-genai.azurewebsites.net/](https://jasonoh-genai.azurewebsites.net/)**: Hosted with GitHub Actions and deployed to Azure Web App from a private repository. The description is available on the page.
+- **MyGenAI [https://jasonoh-genai.azurewebsites.net/](https://jasonoh-genai.azurewebsites.net/)**: Hosted with GitHub Actions and deployed to Azure Web App from a private repository. The description is available on the page. Mainly used LangChain and Streamlit.
 
 ### Full-stack Web/App Projects:
 
