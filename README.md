@@ -1,6 +1,6 @@
 # Hello, I'm Jason Oh (Cheolmin Oh) 👋
 
-#### I am a passionate Full-stack Developer/Software Engineer skilled in TypeScript, Python for web/mobile app development. Currently, I am diving deeper into Cloud technologies and exploring the realms of AI & Machine Learning.
+#### I am a passionate software engineer with experience in full-stack web and app development. I am focused on LLMs and computer vision :)
 
 📄 [**My Resume**](https://github.com/jasonoh1998/jasonoh1998/blob/main/CheolminOh_Resume.pdf)
 🌐 [**My Website**](https://jasonoh.site/)
