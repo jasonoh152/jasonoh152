@@ -11,14 +11,20 @@
 
 ## 🚀 Projects
 
-- **[Spare-it](https://huggingface.co/spaces/jasonoh/spare-it)**: In the Spare-it project, my task was to build an image classification model to identify recyclables for [Spare-it company](https://www.linkedin.com/company/spareit/). Link to our [repository](https://github.com/BU-Spark/ml-spare-it-contamination/tree/dev).
+- **Spare-it**: In the Spare-it project, my task was to build an image classification model to identify recyclables for [Spare-it company](https://www.linkedin.com/company/spareit/). Link to our [repository](https://github.com/BU-Spark/ml-spare-it-contamination/tree/dev).
 
+[demo](https://huggingface.co/spaces/jasonoh/spare-it)
 ![slide1](https://github.com/jasonoh1998/jasonoh1998/assets/92873161/758c9e1d-3055-4132-95ec-42eb545fd19e)
 ![slide2](https://github.com/jasonoh1998/jasonoh1998/assets/92873161/e3794708-6f46-4a83-85ad-d14ec330fc9a)
 
-- **[MyGenAI](https://jasonoh-genai.azurewebsites.net/)**: Hosted with GitHub Actions and deployed to Azure Web App from a private repository. The description is available on the page. Mainly used LangChain and Streamlit.
+- **MyGenAI**: Hosted with GitHub Actions and deployed to Azure Web App from a private repository. The description is available on the page. Mainly used LangChain and Streamlit.
+
+[demo](https://jasonoh-genai.azurewebsites.net/)
+
 - **[Audio CNN Project](https://github.com/jasonoh1998/audio-cnn-project)**: Specializing in audio data analysis, I focused on the application of spectrograms, mel-spectrograms, and MFCCs for gender and age detection. This initiative achieved high accuracy in gender identification and continues to improve age estimation.
 - **[BadLandLords](https://github.com/BU-Spark/se-bad-landlords/tree/dev)**: As the full-stack developer, I crafted scripts for automatic database updates through web scraping and APIs, utilizing TypeScript, Next.js, Prisma, GitHub Actions, Vercel, PostgreSQL, and Docker. Collaborating closely with a dedicated design team, we translated requirements from the Boston Council into a functional and user-friendly product, enhancing tenant access to information about responsible landlords. My role was pivotal in ensuring the seamless integration of design and development, aligning closely with the project's goals.
+- 
+[demo](https://deploy-preview-20--bad-landlords-qa.netlify.app/map)
 ![image](https://github.com/jasonoh1998/jasonoh1998/assets/92873161/e1030195-894e-4e7b-b1a3-995bc2331d20)
 ![image](https://github.com/jasonoh1998/jasonoh1998/assets/92873161/53cd8ec6-bfac-4077-a172-102e4cccf80d)
 
