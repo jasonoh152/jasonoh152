@@ -4,7 +4,7 @@
 
 💼 Worked at:
 - [**Spare-it**](https://www.linkedin.com/company/spareit/) as a Data Engineer, where I built a data pipeline from S3 buckets to SageMaker and EC2 instances, carefully selecting the most efficient EBS and EFS sizes. I automated the entire process using Boto3 and leveraged multiple open-source tools like Ultralytics, Albumentations, and Sahi to train segmentation models. Additionally, I worked extensively with Lambda, DynamoDB, and data lakes to extract insightful data and display it in our admin dashboard product.
-- [**BU Spark!**](https://www.bu.edu/spark/) as a Software Developer Intern. I led the development of three full-stack applications, managing project requirements and timelines to align with stakeholder expectations.
+- [**BU Spark!**](https://www.bu.edu/spark/) as a Software Engineer Intern. I led the development of three full-stack applications, managing project requirements and timelines to align with stakeholder expectations.
 
   1. **Boston Scofflaw Landlords Tracker – Bad Landlords:**  
      Crafted a dynamic website for the Boston City Council to list properties owned by scofflaw landlords, helping to reduce housing fraud. I reengineered the codebase using Next.js, integrated Mapbox.js and ArcGIS for geospatial visualization, and modernized the UI with Tailwind CSS. I also performed exploratory data analysis (EDA) and set up a PostgreSQL database on Railway Cloud, overseeing schema migrations with Prisma ORM.
