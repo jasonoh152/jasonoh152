@@ -67,46 +67,11 @@
   ![image](https://github.com/user-attachments/assets/31529598-a206-41d1-88f4-bdea64f945b4)![image](https://github.com/user-attachments/assets/d108642b-b2e7-4b49-bf5a-ae6d3a6e2605)![image](https://github.com/user-attachments/assets/045605d3-8c64-4a26-81d5-8b3f0b719307)![image](https://github.com/user-attachments/assets/07be2f69-293f-40b0-a91e-475f38194bdd)
   ![image](https://github.com/user-attachments/assets/9f987e60-9836-4dab-b574-5a9ee04b01a9)![image](https://github.com/user-attachments/assets/bc62b024-4e7d-458f-a14b-60d025a88719)![image](https://github.com/user-attachments/assets/ae0a6fe3-8342-4223-adbb-c4043067cd21)
 
-## 🛠 Full-stack Technologies & Tools
-
-**💡 Proficient In (Everyday Use):**
-
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Material-UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-  
-**🏗 Intermediate (Know How to Use):**
-
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-  **🌱 Basic Knowledge (Learning & Exploring)**
-
-  ![OpenAI](https://img.shields.io/badge/OpenAI-%2300A0A0.svg?style=for-the-badge&logo=openai&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
 ## 🛠 Full-stack & Data Engineering Technologies
 
 **💡 Proficient In (Everyday Use):**
 
-- **Languages:** TypeScript, Python, JavaScript
+- **Languages:** Python, TypeScript, JavaScript
 - **Web:** React.js, Next.js, Vite.js, Node.js, Express.js, Flask, Tailwind CSS, Material UI
 - **Databases & Cloud:** PostgreSQL, MySQL, Firebase, AWS, Railway
 - **DevOps:** Docker, Git, GitHub Actions
