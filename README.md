@@ -1,6 +1,6 @@
 # Hello, I'm Jason Oh 👋
 
-#### I'm a dedicated Data Engineer and Full-Stack Developer with a passion for designing scalable cloud data pipelines, optimizing database performance, and developing resilient backend systems.
+#### I'm a passionate Full-Stack Developer and Data Engineer, dedicated to building resilient and scalable web applications, optimizing backend systems, and designing efficient cloud-based data pipelines.
 
 💼 Worked at:
 - [**Spare-it**](https://www.linkedin.com/company/spareit/) as a Data Engineer, where I built a data pipeline from S3 buckets to SageMaker and EC2 instances, carefully selecting the most efficient EBS and EFS sizes. I automated the entire process using Boto3 and leveraged multiple open-source tools like Ultralytics, Albumentations, and Sahi to train segmentation models. Additionally, I worked extensively with Lambda, DynamoDB, and data lakes to extract insightful data and display it in our admin dashboard product.
