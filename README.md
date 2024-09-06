@@ -90,5 +90,5 @@
 - **Mobile:** Flutter
 
 ## 🌐 Connect with me
-- **LinkedIn:** [Cheolmin Oh](https://www.linkedin.com/in/cheolminoh/)
-- **Email:** cm.oh152@gmail.com
+- **LinkedIn:** [Jason Oh](https://www.linkedin.com/in/cheolminoh/)
+- **Email:** jasonoh.dev@gmail.com
