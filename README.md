@@ -42,7 +42,7 @@
 
 - **Voice Gender Prediction using Neural Network:**  
   Specializing in audio data analysis, I focused on applying spectrograms, mel-spectrograms, and MFCCs for gender and age detection. This initiative involved training a convolutional neural network (CNN) to achieve high accuracy in gender identification, with ongoing improvements aimed at refining age estimation capabilities.  
-  | [Repository](https://github.com/jasonoh1998/audio-cnn-project) |
+  | [Repository](https://github.com/jsonoh/audio-cnn-project) |
 
 - **Boston Scofflaw Landlords Tracker – Bad Landlords:**  
   As the full-stack developer, I was responsible for designing and implementing a dynamic website for the Boston City Council to list properties owned by scofflaw landlords. I drew out entity table diagrams to analyze census data and identify precise geolocational data for display using Mapbox.js. I led the overall framework revamp from Vite.js with Express.js and a local JSON dataset to Next.js with Railway Cloud data migration. Additionally, I utilized Tailwind CSS to style the website and employed TypeScript, Prisma ORM, and Zod to ensure API endpoints were type-safe.  
@@ -62,7 +62,7 @@
 
 - **OTT Streaming Service Project - SwanStream:**  
   In this project, I built a full-stack streaming service platform for drama and comics using JSP, Bootstrap, jQuery, Java, Spring, MyBatis, JSTL, and OracleDB. Deployed on AWS, the platform was designed for robust performance and scalability, enabling a seamless user experience.  
-  | [Repository](https://github.com/jasonoh1998/swan_stream) |
+  | [Repository](https://github.com/jsonoh/swan_stream) |
 
   ![image](https://github.com/user-attachments/assets/31529598-a206-41d1-88f4-bdea64f945b4)![image](https://github.com/user-attachments/assets/d108642b-b2e7-4b49-bf5a-ae6d3a6e2605)![image](https://github.com/user-attachments/assets/045605d3-8c64-4a26-81d5-8b3f0b719307)![image](https://github.com/user-attachments/assets/07be2f69-293f-40b0-a91e-475f38194bdd)
   ![image](https://github.com/user-attachments/assets/9f987e60-9836-4dab-b574-5a9ee04b01a9)![image](https://github.com/user-attachments/assets/bc62b024-4e7d-458f-a14b-60d025a88719)![image](https://github.com/user-attachments/assets/ae0a6fe3-8342-4223-adbb-c4043067cd21)
